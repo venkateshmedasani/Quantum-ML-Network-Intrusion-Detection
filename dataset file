@@ -1,0 +1,10 @@
+# Data Folder  
+
+This folder should contain the **NSL-KDD dataset** files.  
+Due to licensing, the dataset is not included here.  
+
+👉 Download from: [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)  
+
+Expected files:  
+- `KDDTrain+.txt`  
+- `KDDTest+.txt`  
